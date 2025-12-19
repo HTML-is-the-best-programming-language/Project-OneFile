@@ -237,7 +237,3 @@ Feel free to fork the repository and submit pull requests.
 Please respect the core rule:  
 **one program must remain one independent HTML file.**
 
----
-
-## Author
-GitHub: https://github.com/HTML-is-the-best-programming-language
